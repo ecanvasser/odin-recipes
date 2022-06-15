@@ -1,4 +1,4 @@
-h1 {
+h1, h3 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: red;
 }
@@ -12,6 +12,11 @@ li a {
     text-align: center;
 }
 
-.homelist {
+.list {
     list-style: none;
+}
+
+.recipe {
+    background-color: rgba(206, 198, 198);
+    text-align: center;
 }
